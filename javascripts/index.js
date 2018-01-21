@@ -1,9 +1,8 @@
 $(document).ready(function() {
-
-${"#yo").append("Hey Everbody!!!");
+heyEverybody();
   
 })
 
 function heyEverybody(){
-  
-}
+  $("#yo").append("Hey Everbody!!!");
+  }
